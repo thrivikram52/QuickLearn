@@ -1,20 +1,22 @@
 {
-  "schema_version": "1.0",
-  "name": "QuickLearn",
+  "name": "quicklearn-marketplace",
   "description": "Rapidly master any technical concept through progressive complexity",
+  "owner": {
+    "name": "Thrivikram"
+  },
   "plugins": [
     {
       "name": "quicklearn",
       "description": "Rapidly master any technical concept through 7 progressive levels - from intuition to implementation. Generates structured learning paths with markdown notes, Mermaid diagrams, runnable Python code, quizzes, and flashcards.",
+      "source": "./",
       "version": "0.1.0",
-      "source": {
-        "type": "git",
-        "url": "https://github.com/thrivikram52/QuickLearn"
-      },
       "author": {
-        "name": "Thrivikram",
-        "url": "https://github.com/thrivikram52"
+        "name": "Thrivikram"
       },
+      "repository": "https://github.com/thrivikram52/QuickLearn",
+      "license": "MIT",
+      "category": "learning",
+      "keywords": ["learning", "teaching", "education", "progressive-complexity"],
       "tags": ["learning", "teaching", "education", "progressive-complexity"]
     }
   ]
