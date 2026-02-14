@@ -1,0 +1,11 @@
+{
+  "name": "quicklearn",
+  "version": "0.1.0",
+  "description": "Rapidly master any technical concept through progressive complexity - from intuition to implementation. Generates structured learning paths with markdown notes and runnable code.",
+  "author": {
+    "name": "Thrivikram",
+    "url": "https://github.com/thrivikram52"
+  },
+  "license": "MIT",
+  "keywords": ["learning", "teaching", "education", "concepts", "progressive-complexity", "technical-learning"]
+}
