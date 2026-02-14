@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "name": "QuickLearn",
+  "description": "Rapidly master any technical concept through progressive complexity",
+  "plugins": [
+    {
+      "name": "quicklearn",
+      "description": "Rapidly master any technical concept through 7 progressive levels - from intuition to implementation. Generates structured learning paths with markdown notes, Mermaid diagrams, runnable Python code, quizzes, and flashcards.",
+      "version": "0.1.0",
+      "source": {
+        "type": "git",
+        "url": "https://github.com/thrivikram52/QuickLearn"
+      },
+      "author": {
+        "name": "Thrivikram",
+        "url": "https://github.com/thrivikram52"
+      },
+      "tags": ["learning", "teaching", "education", "progressive-complexity"]
+    }
+  ]
+}
