@@ -15,10 +15,15 @@ A Claude Code plugin that generates structured learning paths with markdown note
 ## Installation
 
 ```bash
-claude --plugin-dir /path/to/QuickLearn
+claude plugin add https://github.com/thrivikram52/QuickLearn
 ```
 
-Or add to your Claude Code settings.
+Or install locally for development:
+
+```bash
+git clone https://github.com/thrivikram52/QuickLearn.git
+claude --plugin-dir /path/to/QuickLearn
+```
 
 ## Commands
 
